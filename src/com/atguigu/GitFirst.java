@@ -5,6 +5,7 @@ public class GitFirst {
 	public static void main(String[] args) {
 		System.out.println("oooooooooooooooooo");
 		System.out.println("oooooooooooooooooo");
+		System.out.println("tttttttttttttttttt");
 	}
 
 }
